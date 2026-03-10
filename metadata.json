@@ -1,0 +1,8 @@
+{
+  "name": "EduBridge AI",
+  "description": "An AI-powered global mentorship platform for rural students, featuring dashboards, AI tutoring, and live classrooms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
